@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818885318898",
+    "project_id": "ldsw-3-7-7e8d1",
+    "storage_bucket": "ldsw-3-7-7e8d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818885318898:android:216ea874e4952bff94986b",
+        "android_client_info": {
+          "package_name": "com.example.ldsw_3_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRvuSpxDmHoIyYAuzs82jq87RuzN8kfqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
